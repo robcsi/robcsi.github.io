@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Sárközi</title>
+    <link>http://robcsi.github.io/categories/projects/index.xml</link>
+    <description>Recent content on Robert Sárközi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://robcsi.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://robcsi.github.io/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://robcsi.github.io/projects/</guid>
+      <description>&lt;section id=&#34;projects&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;h3&gt;Personal Projects&lt;/h3&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-windows&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Calling and Messaging Tiles&lt;/a&gt;&lt;/strong&gt;
+        - Lightweight Windows Phone 8.1 and Windows 10 Mobile applications for quick calling and texting contacts.
+        &lt;br&gt;
+        You are able to quickly call and message your favorite contacts by pinning tiles on the start screen on your Windows phone and tapping only once on one of the tiles.
+        The tiles display contact info like name, phone number, phone line you want to use to call them on.
+        Free and paid versions are both available, the latter with extra functionality. The texting app also integrates well with Skype Preview on Windows 10 Mobile.
+        &lt;br&gt;
+        Download links: 
+        &lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/store/p/calling-tiles/9nblggh5x616&#34;&gt;Calling Tiles&lt;/a&gt;&lt;/strong&gt;, 
+        &lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/store/p/calling-tiles/9nblggh524k0&#34;&gt;Calling Tiles +&lt;/a&gt;&lt;/strong&gt;, 
+        &lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/store/p/messaging-tiles/9nblggh67dp2&#34;&gt;Messaging Tiles&lt;/a&gt;&lt;/strong&gt;, 
+        &lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/store/p/messaging-tiles/9nblggh4s6rx&#34;&gt;Messaging Tiles +&lt;/a&gt;&lt;/strong&gt;
+        &lt;br&gt;
+        Also check out their Facebook page: &lt;strong&gt;&lt;a href=&#34;https://www.facebook.com/CallingMessagingTiles/&#34;&gt;/CallingAndMessagingTiles&lt;/a&gt;&lt;/strong&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-windows&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/store/p/youhaiku/9nblggh5r656&#34;&gt;you.haiku&lt;/a&gt;&lt;/strong&gt;
+        - Windows Phone 8.1 and Windows 10 Mobile application for creating Haikus with images and texts and sharing them over social networks.
+        &lt;br&gt;
+        Also check out its Facebook page: &lt;strong&gt;&lt;a href=&#34;https://www.facebook.com/youhaikuapp/&#34;&gt;you.haiku&lt;/a&gt;&lt;/strong&gt;, and Haikus created and shared by others:
+        &lt;strong&gt;&lt;a href=&#34;https://www.facebook.com/hashtag/youhaiku?fref=ts&#34;&gt;#youhaiku&lt;/a&gt;&lt;/strong&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a href=&#34;https://github.com/robcsi/viewmaps.vim&#34;&gt;viewmaps.vim&lt;/a&gt;&lt;/strong&gt;
+        - A small VIm plugin for displaying keyboard shortcuts/mappings configured in your .vimrc file, easily browsing through them and quickly be able
+        to open the .vimrc file with cursor on the currently selected mapping by leveraging the Quickfix window functionality.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a href=&#34;https://github.com/robcsi/gvfilter.vim&#34;&gt;gvfilter.vim&lt;/a&gt;&lt;/strong&gt;
+        The plugin filters the current buffer so that only lines matching the given arguments remain in the file or all others, non-matching lines.
+      &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
